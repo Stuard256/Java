@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81d1aec0-ebce-416a-8402-3050d1258348" name="Default Changelist" comment="" />
+    <list default="true" id="81d1aec0-ebce-416a-8402-3050d1258348" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../01_Linear_programs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Linear_programs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Linear_programs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Linear_programs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_Cycles/src/by/training/cycles/Ruble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Linear_programs/Linear_Programs/src/by/training/linearalgorythm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Linear_programs/Linear_Programs/src/by/training/linearalgorythm/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +85,8 @@
       <workItem from="1576148810195" duration="336000" />
       <workItem from="1576163546852" duration="1460000" />
       <workItem from="1576165408058" duration="714000" />
+      <workItem from="1576172317024" duration="441000" />
+      <workItem from="1576273499722" duration="630000" />
     </task>
     <servers />
   </component>
@@ -99,22 +110,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="739" y="293" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1576163643041" />
-    <state width="1875" height="147" key="GridCell.Tab.0.bottom" timestamp="1576134289114">
+    <state width="1875" height="147" key="GridCell.Tab.0.bottom" timestamp="1576172762480">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="147" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576134289114" />
-    <state width="1875" height="147" key="GridCell.Tab.0.center" timestamp="1576134289114">
+    <state width="1875" height="147" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576172762480" />
+    <state width="1875" height="147" key="GridCell.Tab.0.center" timestamp="1576172762480">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="147" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576134289114" />
-    <state width="1875" height="147" key="GridCell.Tab.0.left" timestamp="1576134289114">
+    <state width="1875" height="147" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576172762480" />
+    <state width="1875" height="147" key="GridCell.Tab.0.left" timestamp="1576172762480">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="147" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576134289114" />
-    <state width="1875" height="147" key="GridCell.Tab.0.right" timestamp="1576134289114">
+    <state width="1875" height="147" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576172762480" />
+    <state width="1875" height="147" key="GridCell.Tab.0.right" timestamp="1576172762480">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="147" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576134289114" />
+    <state width="1875" height="147" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576172762480" />
     <state width="1875" height="362" key="GridCell.Tab.1.bottom" timestamp="1576087415005">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

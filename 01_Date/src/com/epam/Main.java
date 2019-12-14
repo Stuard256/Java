@@ -13,7 +13,9 @@ public class Main {
     public static void main(String[] args) {
         DateValidator validator = new DateValidator();
         List<Date> dates = new ArrayList<>();
+
             validator.readInput(dates);
+
             if(!dates.isEmpty()){
                 for(Date date: dates) {
                     DateServiceImpl service = new DateServiceImpl();
