@@ -1,5 +1,7 @@
 package by.training.cycles;
 
+import java.util.Scanner;
+
 public class Ruble {
     byte thousands;
     byte hundreds;
@@ -15,6 +17,21 @@ public class Ruble {
         else
             throw new IllegalArgumentException();
     }
+
+    public static void read(){
+        System.out.println("Enter your number between 0 and 9999");
+        try(Scanner scanner = new Scanner(System.in)){
+            if(scanner.hasNextInt()){
+               new Ruble(scanner.nextInt()).print();
+            }
+
+        }
+        catch(Exception e){
+            System.err.println(e.getMessage());
+        }
+
+    }
+
     public void print(){
         StringBuilder result = new StringBuilder();
         switch(this.thousands){
@@ -111,7 +128,11 @@ public class Ruble {
 
         switch(this.units){
             default:
-                if(this.dozens!=1){result.append("рублей");}
+                if(this.thousands == 0 && this.hundreds == 0 && this.dozens == 0){
+                    result.append("ноль рублей");
+                    break;
+                }
+                if(this.dozens != 1){result.append("рублей");}
                 else{result.append("десять рублей");}
                 break;
             case 1:
