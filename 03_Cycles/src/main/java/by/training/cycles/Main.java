@@ -9,10 +9,10 @@ import by.training.cycles.task4.entity.EvenNumber;
 public class Main {
 
     public static void main(String[] args) {
-	    //RubleService.read();
-        //EvenNumber.printEvenNumbers();
-        //SumOfFractions.printSum(3);
-        //Divider.readNumbers();
+	    RubleService.read();
+        EvenNumber.printEvenNumbers();
+        SumOfFractions.printSum(3);
+        Divider.readNumbers();
         MagicNumber.findNumbers();
     }
 }

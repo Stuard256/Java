@@ -1,0 +1,5 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Υχυϊÿÿÿÿ8ύ΅ξφρ-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(λ”μµ8ςΪ¤φρ-
+nsquid:UselessImportCheck"CRemove this unused import 'java.util.concurrent.CompletableFuture'.(τήδ΄8αΟωρ-
