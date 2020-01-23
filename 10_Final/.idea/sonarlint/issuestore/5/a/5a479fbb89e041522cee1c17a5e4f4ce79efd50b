@@ -1,24 +1,27 @@
 
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(¸İÛıùÿÿÿÿ8Åçæÿù-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Á¯Üıÿÿÿÿ8ÊÏ®şù-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ûÜó¾øÿÿÿÿ8×Éå€ú-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ôıûæıÿÿÿÿ8»»ã€ú-
 U
 squid:S106"9Replace this use of System.out or System.err by a logger.(º°©}8ÊÏ®şù-
-V
-squid:S106%"9Replace this use of System.out or System.err by a logger.(ãá€Ä8†¡ê€ú-
-V
-squid:S106/"9Replace this use of System.out or System.err by a logger.(Å³‹İ8áäî€ú-
 [
-squid:S1060"9Replace this use of System.out or System.err by a logger.(§îÉ§ÿÿÿÿÿ8áäî€ú-
-Xsquid:S11616":Add the "@Override" annotation above this method signature(ÁåßÀ8·õ€ú-
-Fsquid:S11856"(Remove this method to simply inherit it.(ÁåßÀ8·õ€ú-
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ôıûæıÿÿÿÿ8»»ã€ú-
 [
-squid:S106("9Replace this use of System.out or System.err by a logger.(¸İÛıùÿÿÿÿ8†¡ê€ú-
-¤%squid:RedundantThrowsDeclarationCheck."lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Î‹û8Óäò€ú-
+squid:S1066"9Replace this use of System.out or System.err by a logger.(½Ï €ûÿÿÿÿ8×şÇü-
+Fsquid:S1185;"(Remove this method to simply inherit it.(ÁåßÀ8·õ€ú-
+Xsquid:S1161;":Add the "@Override" annotation above this method signature(ÁåßÀ8·õ€ú-
 V
 squid:S106""9Replace this use of System.out or System.err by a logger.(¥×²8†¡ê€ú-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(§îÉ§ÿÿÿÿÿ8áäî€ú-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á¯Üıÿÿÿÿ8ÊÏ®şù-
+V
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ÁãÜâ8ºƒŒÇü-
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(¸İÛıùÿÿÿÿ8†¡ê€ú-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸İÛıùÿÿÿÿ8Åçæÿù-
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ãá€Ä8†¡ê€ú-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÜó¾øÿÿÿÿ8×Éå€ú-
+V
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Å³‹İ8áäî€ú-

@@ -9,7 +9,10 @@ import java.util.Scanner;
 public class FileView {
     TextFileValidator validator = new TextFileValidator();
 
-
+    /**
+     * TODO: доделать херь эту
+     * @throws IOException если ошибочка, то должно вывести
+     */
     public void chooseOption() throws IOException {
         System.out.println("==================Text File Helper================");
         System.out.println("Your system path separator is " +  System.getProperty("file.separator"));
@@ -24,12 +27,15 @@ public class FileView {
         System.out.println("==================================================");
         System.out.println("Enter your choice:");
         try( Scanner scanner = new Scanner(System.in)){
-            int option = scanner.nextInt();
-            switch(option){
-                case 1 -> validator.createByAbsolutePathAndName();
-                //case 2 -> validator.
-            }
+            if(scanner.hasNextInt()){
+                int option = scanner.nextInt();
+                switch(option){
+                    case 1 -> validator.createByAbsolutePathAndName();
+                    case 2 -> validator.createByName();
+                    case 3 -> validator.createByRelativePathAndName();
+                    case 4 -> validator.rename();
+                    default -> System.err.println("something went wrong");
+                }}
         }
-
     }
 }

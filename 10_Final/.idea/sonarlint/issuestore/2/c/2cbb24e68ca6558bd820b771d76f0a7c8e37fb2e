@@ -1,27 +1,25 @@
 
+dsquid:S1192"FDefine a constant instead of duplicating this literal "File " 4 times.(žÿç†8 ¯øÿù-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(›«¶£8 ¯øÿù-
-[
-squid:S106?"9Replace this use of System.out or System.err by a logger.(¶õØ‰ÿÿÿÿÿ8”­û€ú-
-Isquid:S1172&"+Remove this unused method parameter "name".(¥ã¶£8 ¯øÿù-
-U
-squid:S106="9Replace this use of System.out or System.err by a logger.(‚»åo8‡“ú€ú-
-lsquid:S4042<"IUse "java.nio.Files#delete" here for better messages on error conditions.(±ÝÌÕûÿÿÿÿ8§Åù€ú-
-[
-squid:S1064"9Replace this use of System.out or System.err by a logger.(ë”þüûÿÿÿÿ8„ëÞ€ú-
 V
 squid:S106#"9Replace this use of System.out or System.err by a logger.(²¦àç8 ¯øÿù-
-¤%squid:RedundantThrowsDeclarationCheck;"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ê‘ÅÜ8½ÁÛ€ú-
-V
-squid:S106("9Replace this use of System.out or System.err by a logger.( £‰8 ¯øÿù-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(»êüœ8 ¯øÿù-
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ë”þüûÿÿÿÿ8„ëÞ€ú-
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(¶õØ‰ÿÿÿÿÿ8”­û€ú-
+¤%squid:RedundantThrowsDeclarationCheck@"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ê‘ÅÜ8½ÁÛ€ú-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(žÿç†8 ¯øÿù-
-[
-squid:S106""9Replace this use of System.out or System.err by a logger.(¢òÕüÿÿÿÿ8 ¯øÿù-
-nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(¤ÛÐðøÿÿÿÿ8 ¯øÿù-
-hsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(¦€¿8 ¯øÿù-
+U
+squid:S106B"9Replace this use of System.out or System.err by a logger.(‚»åo8‡“ú€ú-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(»êüœ8 ¯øÿù-
+Usquid:S1135'"2Complete the task associated to this TODO comment.(öÄ¼ôúÿÿÿÿ8ŒèšÇü-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(½Å¨øÿÿÿÿ8 ¯øÿù-
-dsquid:S1192"FDefine a constant instead of duplicating this literal "File " 4 times.(žÿç†8 ¯øÿù-
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(¢òÕüÿÿÿÿ8 ¯øÿù-
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.( £‰8ÿ“™Çü-
+lsquid:S4042A"IUse "java.nio.Files#delete" here for better messages on error conditions.(±ÝÌÕûÿÿÿÿ8§Åù€ú-

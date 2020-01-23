@@ -1,8 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-`
-0src/main/java/by/training/controller/Runner.java,4\e\4eb03b4be33b2059aa8476a9c8edac015b01077f
 i
 9src/main/java/by/training/textfile/controller/Runner.java,2\b\2b1663e6fce89caf259c72580bf948c429cf7308
 e
@@ -11,3 +9,23 @@ q
 Asrc/main/java/by/training/textfile/service/TextFileValidator.java,5\a\5a479fbb89e041522cee1c17a5e4f4ce79efd50b
 f
 6src/main/java/by/training/textfile/model/TextFile.java,2\c\2cbb24e68ca6558bd820b771d76f0a7c8e37fb2e
+h
+8src/main/java/by/training/payment/controller/Runner.java,2\1\217023d72369ca10b658531a80e360b7c17e31bc
+d
+4src/main/java/by/training/payment/model/Payment.java,1\2\124d9600caa44f701994ca936ec0efe09da96608
+d
+4src/main/java/by/training/dragon/model/Treasure.java,9\c\9c8bb189b515e0519338f322a54908692a057f2b
+b
+2src/main/java/by/training/dragon/model/Dragon.java,d\f\df0318adf8de7a4747647cee6d81b96c7d57fd3f
+g
+7src/main/java/by/training/dragon/controller/Runner.java,3\5\35714040dd7f439b586406bcd1df2ab90ca56368
+l
+<src/main/java/by/training/dragon/view/TreasuresObserver.java,4\0\40c063a887408ef68430f9505282526148d688b8
+m
+=src/main/java/by/training/dragon/service/TreasureService.java,0\5\05ec5ba1210e877cc032e18acc404817600b549a
+k
+;src/main/java/by/training/dragon/service/DragonService.java,1\f\1f2fce5afb0522d8d61e5d91704f5becfa8ff49b
+q
+Asrc/main/java/by/training/dragon/service/TreasureServiceImpl.java,2\8\28e281e954313bf89f4b31cbd3f4afc41c651b3a
+o
+?src/main/java/by/training/dragon/service/DragonServiceImpl.java,c\9\c9cca04e6e2fb803d91f32164ed2bcbdf6019673

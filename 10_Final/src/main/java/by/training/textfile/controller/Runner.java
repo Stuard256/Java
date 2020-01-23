@@ -8,6 +8,8 @@ public class Runner
 {
     public static void main( String[] args ) throws IOException {
         FileView fv = new FileView();
-        fv.chooseOption();
+        while(true) {
+            fv.chooseOption();
+        }
     }
 }

@@ -1,0 +1,4 @@
+
+jsquid:UselessImportCheck"?Remove this unused import 'by.training.textfile.view.FileView'.(Æ¨¥8µ—ªÇü-
+¤%squid:RedundantThrowsDeclarationCheck
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8‘‡ÛÇü-

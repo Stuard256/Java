@@ -43,11 +43,16 @@ public class TextFileValidator extends TextFile {
         }
     }
 
-    public void rename() throws IOException {
+    public void rename(){
         System.out.println("You chose renaming file");
         System.out.println("Please enter new name");
         try(Scanner scanner = new Scanner(System.in)){
-            super.rename(scanner.next());
+            if(super.rename(scanner.next())){
+                System.out.println("File was renamed successfully");
+            }
+            else{
+                System.out.println("Something bad happened :(");
+            }
         }
     }
 

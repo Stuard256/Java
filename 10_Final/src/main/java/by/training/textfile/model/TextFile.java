@@ -35,10 +35,15 @@ public class TextFile {
         }else System.out.println("File "+relativePathAndName+" already exists in the project root directory");
     }
 
-    protected void rename(String name){
-        //File f2 = new File(file.getAbsolutePath());
+    /**
+     * TODO: Доделать эту функцию
+     * @param name - во что переименовываем
+     * @return булевое значение , переименовал или нет (ошибка)
+     */
+    protected boolean rename(String name){
+        File f2 = new File(file.getAbsolutePath());
         System.out.println(file.getAbsolutePath());
-        //boolean b = file.renameTo(f2);
+        return file.renameTo(f2);
         // if b is true, then the file has been renamed successfully
     }
 
