@@ -1,2 +1,30 @@
 
-^squid:S2094"BRemove this empty class, write its code or make it an "interface".(“ÛŸûÿÿÿÿ
+Ksquid:S1199&"-Extract this nested code block into a method.(ÜäÅ¿8¢ºÈı-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(­Åû[8áƒ¡ı-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ÿ‡‡8İè£ı-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇîÉ²8İè£ı-
+Ksquid:S1199*"-Extract this nested code block into a method.(üØô8ş³±ı-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(€˜ßø8İè£ı-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄºÎ”8İè£ı-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(®¼†åÿÿÿÿÿ8ô¶–ı-
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(„üç şÿÿÿÿ8ñş†ı-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(õß‰µşÿÿÿÿ8×Ë–ı-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´ìôÒøÿÿÿÿ8İè£ı-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(™ şÙ8İè£ı-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıÔ™”ÿÿÿÿÿ8İè£ı-
+[
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ò¼‰Æüÿÿÿÿ8áİÌı-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(“¼ä‡8Ä™öŒı-
+Usquid:S11358"2Complete the task associated to this TODO comment.(Àì§şÿÿÿÿ8½àı-

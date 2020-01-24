@@ -9,9 +9,11 @@ import java.io.IOException;
 
 public class Runner
 {
-    public static void main( String[] args ) {
+    public static void main( String[] args )  throws InterruptedException{
         TreasuresObserver  treasuresObserver = new TreasuresObserver();
         treasuresObserver.showCommands();
-        treasuresObserver.selectCommand();
+        while(true) {
+            treasuresObserver.selectCommand();
+        }
     }
 }

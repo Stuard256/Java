@@ -1,3 +1,5 @@
 
+Ysquid:S2696"6Make the enclosing method "static" or remove this set.(æÙÑ¿ûÿÿÿÿ8ºÊÜéü-
+Ysquid:S2696"6Make the enclosing method "static" or remove this set.(æÙÑ¿ûÿÿÿÿ8¹ÚÌŒı-
 ysquid:S3008"[Rename this field "THEMOSTEXPENSIVE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áíğá8¯‡®Èü-
-Ysquid:S2696"6Make the enclosing method "static" or remove this set.(æÙÑ¿ûÿÿÿÿ8ºÊÜéü-
+“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(êÑì–úÿÿÿÿ8¸‘ÚŒı-

@@ -1,4 +1,5 @@
 
-csquid:UselessImportCheck"?Remove this unused import 'by.training.textfile.view.FileView'.(Æ¨¥
-`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ƒùÂÈü-
-isquid:UselessImportCheck">Remove this unused import 'by.training.payment.model.Payment'.(’éã¦8è‡Èü-
+csquid:UselessImportCheck"?Remove this unused import 'by.training.textfile.view.FileView'.(Æ¨¥
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ƒùÂÈü-
+gsquid:UselessImportCheck"<Remove this unused import 'by.training.dragon.model.Dragon'.(ˆ‹¯8¥œı-
+isquid:UselessImportCheck">Remove this unused import 'by.training.payment.model.Payment'.(’éã¦8è‡Èü-

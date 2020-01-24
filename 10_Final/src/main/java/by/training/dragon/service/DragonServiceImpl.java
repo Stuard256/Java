@@ -26,6 +26,8 @@ public class DragonServiceImpl implements DragonService{
 
     @Override
     public void showTreasures(){
+        if(dragon.getTreasures().isEmpty())
+            System.out.println("Unfortunately, our dragon doesn't have any treasures yet");
         for(Treasure tr : dragon.getTreasures()){
             System.out.println(tr.toString());
         }
